@@ -1,0 +1,6 @@
+{
+  "name": "WikiGraph AI - Wikipedia Knowledge Graph Explorer",
+  "description": "Biến các bài viết Wikipedia thành sơ đồ tri thức (Knowledge Graph) tương tác trực quan với trí tuệ nhân tạo AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
